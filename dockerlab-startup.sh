@@ -3,3 +3,4 @@
 # OR to build an existing server
 # How many server categories is needed to build a functional docker build pipeline?
 # Working progress............
+# Define docker piepline technologies.
